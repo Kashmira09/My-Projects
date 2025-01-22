@@ -1,0 +1,1523 @@
+Company,TypeName,Screen_size,IPS_panel,PPI,Touchscreen,CPU_brand,Ram,Memory_type,GPU_brand,OpSys,Weight,Price
+HP,Ultrabook,small,1,352,1,Intel,8,SSD,Intel,windows,0.97,107306
+Asus,Notebook,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.1,61006
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,71379
+Asus,Notebook,large,0,91,0,Intel,4,HDD,Nvidia,windows,2.8,24828
+Asus,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2,18328
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,23816
+Dell,Gaming,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.56,66561
+Apple,Ultrabook,small,0,128,0,Intel,8,Flash Storage,Intel,macos,1.34,47896
+Dell,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.62,47899
+Asus,Notebook,large,0,127,0,Intel,8,Hybrid,Nvidia,other,2.69,47366
+Acer,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.2,44808
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,1.9,26533
+Dell,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.56,46833
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,other,1.86,30636
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.8,100699
+Lenovo,2 in 1 Convertible,small,1,158,1,Intel,8,SSD,Intel,windows,1.38,57489
+HP,Ultrabook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.48,57649
+Apple,Ultrabook,medium,1,221,0,Intel,16,SSD,AMD,macos,1.83,135195
+HP,Notebook,medium,0,141,0,Intel,6,SSD,AMD,windows,1.91,32980
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,4,SSD,Intel,windows,1.74,33513
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.2,52481
+Asus,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.1,70063
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,96096
+HP,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.86,21232
+HP,Notebook,medium,0,100,1,Intel,8,HDD,Intel,windows,2.04,29784
+Asus,Gaming,large,0,127,0,Intel,16,SSD,Nvidia,windows,3.6,159787
+HP,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.49,58768
+HP,Notebook,small,1,166,0,Intel,4,HDD,Intel,windows,1.49,35964
+Acer,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.1,21312
+Apple,Ultrabook,medium,1,221,0,Intel,16,Flash Storage,Intel,macos,2.04,114018
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,108691
+Dell,2 in 1 Convertible,medium,1,141,1,Intel,8,HDD,Intel,windows,2.08,43636
+Apple,Ultrabook,small,0,128,0,Intel,8,Flash Storage,Intel,macos,1.34,61736
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.3,95851
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,20460
+Asus,Ultrabook,medium,0,157,0,Intel,16,SSD,Nvidia,windows,1.3,79654
+Acer,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.6,41026
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.13,40908
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.86,20987
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,1.91,23390
+Asus,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2,31232
+Dell,2 in 1 Convertible,medium,0,141,1,Intel,8,SSD,Intel,windows,1.56,55891
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.43,130483
+Toshiba,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,23816
+Asus,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.03,21472
+Asus,Notebook,medium,0,141,0,Intel,4,SSD,Intel,linux,2,22111
+Acer,Notebook,large,1,127,0,Intel,4,SSD,Nvidia,windows,3,42890
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.13,38788
+Dell,Notebook,large,0,127,0,Intel,16,Hybrid,AMD,windows,2.8,69211
+Lenovo,Gaming,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.5,57489
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,18541
+MSI,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.4,95851
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,19368
+Dell,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.56,56503
+Acer,Notebook,large,1,127,0,Intel,8,SSD,Nvidia,windows,3,45501
+HP,Notebook,small,1,166,0,Intel,4,HDD,Intel,windows,1.49,40173
+Asus,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,1.68,24988
+Huawei,Ultrabook,small,1,200,0,Intel,8,SSD,Intel,windows,1.05,71875
+HP,Notebook,large,1,127,0,Intel,6,HDD,AMD,windows,2.71,37243
+Lenovo,2 in 1 Convertible,small,1,158,1,Intel,8,SSD,Intel,windows,1.37,98515
+Lenovo,Notebook,medium,0,100,0,AMD,4,HDD,AMD,other,2.2,16464
+Toshiba,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,5.4,26054
+Acer,Notebook,large,1,127,0,Intel,4,SSD,Nvidia,windows,3,37403
+HP,Notebook,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.5,49177
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.41,50563
+HP,Notebook,medium,0,100,0,AMD,8,SSD,AMD,windows,1.91,23758
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.3,24456
+HP,Notebook,large,1,127,0,Intel,16,HDD,Nvidia,windows,2.9,56424
+Acer,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,23923
+MSI,Gaming,large,0,120,0,Intel,32,Hybrid,Nvidia,windows,4.4,149131
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.14,133147
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,1.9,43317
+HP,2 in 1 Convertible,small,1,331,1,Intel,8,SSD,Intel,windows,1.29,79867
+Lenovo,2 in 1 Convertible,medium,1,141,1,Intel,8,SSD,Nvidia,windows,2,90523
+Dell,Notebook,medium,0,141,0,Intel,16,Hybrid,AMD,linux,2.02,55891
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,other,1.86,18381
+Dell,Notebook,large,0,127,0,Intel,8,Hybrid,AMD,windows,2.8,60846
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,other,2.2,23656
+HP,Notebook,medium,1,141,0,Intel,4,HDD,Intel,windows,2.1,38468
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,46833
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.18,35005
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.23,74539
+Apple,Ultrabook,medium,1,221,0,Intel,16,SSD,AMD,macos,1.83,130002
+Lenovo,2 in 1 Convertible,small,1,317,1,Intel,16,SSD,Intel,windows,1.4,98515
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,other,1.7,31915
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,2.24,30103
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,windows,2.2,26581
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.4,50136
+Apple,Ultrabook,small,1,226,0,Intel,8,SSD,Intel,macos,0.92,67261
+Toshiba,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2,42251
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.86,36763
+Dell,2 in 1 Convertible,medium,0,141,1,Intel,8,SSD,Intel,windows,2.67,42571
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,80908
+Asus,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,4.1,79867
+Asus,Ultrabook,medium,0,141,0,Intel,16,SSD,Nvidia,windows,1.8,105654
+Xiaomi,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,other,1.95,63883
+HP,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,windows,2.5,54239
+HP,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,1.86,23373
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.05,46886
+Dell,Notebook,large,0,127,1,Intel,16,SSD,Nvidia,windows,2.77,82531
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.2,39694
+Dell,Notebook,medium,0,282,1,Intel,16,SSD,Nvidia,windows,2.06,127712
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,104370
+HP,Notebook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.44,12201
+Asus,Gaming,large,0,127,0,AMD,16,Hybrid,AMD,windows,3.2,82531
+Apple,Ultrabook,medium,1,221,0,Intel,16,SSD,AMD,macos,1.83,152274
+Lenovo,Gaming,medium,1,141,0,Intel,8,SSD,Nvidia,other,2.4,41505
+Acer,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.12,52694
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.9,29251
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,other,2.2,26587
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.14,39165
+Dell,Notebook,large,0,127,0,Intel,8,Hybrid,AMD,windows,2.8,57809
+Lenovo,2 in 1 Convertible,medium,0,210,1,Intel,16,SSD,Intel,windows,1.36,133147
+Dell,Ultrabook,small,1,166,1,Intel,8,SSD,Intel,windows,1.22,52161
+Asus,Gaming,large,0,127,0,Intel,12,HDD,Nvidia,linux,3,50563
+Vero,Notebook,medium,1,157,0,Intel,4,Flash Storage,Intel,windows,1.3,13853
+Toshiba,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,windows,2.2,43263
+Xiaomi,Ultrabook,small,1,166,0,Intel,8,SSD,Nvidia,other,1.3,53275
+Microsoft,Ultrabook,small,0,201,1,Intel,4,SSD,Intel,windows,1.25,58022
+Dell,Notebook,medium,0,100,0,Intel,12,HDD,Intel,windows,2.3,37992
+Lenovo,Notebook,large,0,106,0,Intel,8,SSD,Nvidia,other,2.8,37189
+Dell,Ultrabook,small,1,166,0,Intel,64,SSD,AMD,windows,1.4,50882
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.2,46354
+Dell,Notebook,large,0,127,0,Intel,8,Hybrid,AMD,linux,2.8,58555
+Dell,2 in 1 Convertible,small,1,166,1,Intel,8,HDD,Intel,windows,1.62,44702
+Acer,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.2,39694
+HP,Notebook,large,1,127,0,Intel,8,HDD,Nvidia,windows,2.5,48698
+Razer,Gaming,large,0,255,1,Intel,32,SSD,Nvidia,windows,3.49,324955
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,58342
+Lenovo,Notebook,large,0,106,0,Intel,4,HDD,Intel,windows,2.8,26054
+Lenovo,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,other,2.8,45235
+HP,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.49,51096
+Lenovo,Notebook,large,0,106,0,Intel,6,Hybrid,Nvidia,windows,2.8,45768
+HP,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,3.35,73473
+Acer,Notebook,medium,0,112,0,Intel,8,HDD,Intel,windows,2.1,20726
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,AMD,linux,2.25,22804
+Asus,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.2,50563
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,53227
+HP,Notebook,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.5,55678
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Intel,other,2.2,27652
+Lenovo,Gaming,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.5,44169
+Dell,Gaming,medium,1,282,0,Intel,16,Hybrid,Nvidia,windows,2.65,98302
+HP,Notebook,medium,0,100,0,AMD,4,HDD,AMD,other,1.86,13746
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,Intel,windows,2.02,45554
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,26267
+Lenovo,Notebook,medium,0,141,0,Intel,6,SSD,Intel,windows,2.2,30849
+Dell,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.62,43636
+Acer,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.23,39534
+Acer,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,3,50669
+Lenovo,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,3.2,93187
+Acer,Notebook,medium,1,141,1,Intel,12,HDD,Intel,windows,2.15,35112
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,28238
+Dell,Workstation,medium,0,282,0,Intel,16,Hybrid,Nvidia,windows,2.8,162770
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.95,58448
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.91,35112
+Asus,Ultrabook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,1.7,52055
+HP,Notebook,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.5,52055
+Lenovo,Gaming,medium,0,141,0,Intel,16,SSD,Nvidia,other,2.4,74485
+Dell,Notebook,medium,0,100,1,Intel,6,HDD,Intel,windows,2.3,23390
+Dell,Ultrabook,small,1,331,1,Intel,8,SSD,Intel,windows,1.21,103843
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.3,22305
+Lenovo,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.5,62817
+Dell,Ultrabook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.88,58403
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.22,77203
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,other,2.2,35112
+Apple,Ultrabook,small,0,128,0,Intel,8,Flash Storage,Intel,macos,1.35,58555
+Apple,Ultrabook,small,1,226,0,Intel,8,SSD,Intel,macos,0.92,80453
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.2,42624
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.63,45821
+Acer,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,linux,2.4,41505
+Acer,Notebook,medium,0,100,0,Intel,2,SSD,Intel,other,2.19,10603
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,74965
+Dell,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.88,69157
+Asus,Gaming,large,0,127,0,Intel,8,HDD,Nvidia,windows,3,63243
+HP,Notebook,large,0,106,0,Intel,8,HDD,Intel,windows,2.54,26054
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,other,2.1,18595
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,other,2.2,29251
+HP,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,windows,2.5,47739
+Huawei,Ultrabook,small,1,200,0,Intel,8,SSD,Intel,windows,1.05,79867
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2,97449
+Chuwi,Notebook,medium,0,141,0,Intel,4,Flash Storage,Intel,windows,1.89,13053
+Dell,Ultrabook,small,1,166,0,Intel,8,SSD,AMD,windows,1.4,49651
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.05,39374
+Lenovo,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,windows,3.2,69211
+Asus,Notebook,medium,0,112,0,AMD,2,Flash Storage,AMD,windows,1.65,10603
+Lenovo,Notebook,large,0,106,0,Intel,8,HDD,Nvidia,other,2.8,31382
+Acer,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,linux,2.5,52161
+HP,Notebook,large,0,127,0,AMD,4,HDD,AMD,windows,2.71,23390
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,windows,1.63,54932
+Dell,Workstation,large,0,127,0,Intel,16,SSD,Nvidia,windows,3.42,153705
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.2,99580
+Lenovo,Notebook,medium,0,141,0,AMD,6,HDD,AMD,windows,2.4,26587
+Apple,Ultrabook,small,0,128,0,Intel,8,Flash Storage,Intel,macos,1.35,53173
+Asus,Ultrabook,medium,0,141,0,Intel,16,SSD,Nvidia,windows,1.63,78215
+Asus,Notebook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.3,27120
+Lenovo,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.44,13267
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,113060
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,19554
+Lenovo,Notebook,large,0,106,0,Intel,6,HDD,Nvidia,windows,5.8,34579
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,other,2.2,29251
+Dell,Notebook,large,1,127,0,Intel,8,Hybrid,AMD,windows,2.8,52161
+Asus,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,67399
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.86,26037
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.1,46833
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.2,19180
+Lenovo,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,2.2,21259
+HP,2 in 1 Convertible,small,0,166,1,Intel,16,SSD,Intel,windows,1.28,105228
+Asus,Notebook,medium,0,141,0,Intel,4,HDD,Intel,linux,2,20726
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.2,55571
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.3,43636
+Dell,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.65,79867
+Acer,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.1,21046
+Asus,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,linux,2.3,27865
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.86,24988
+Dell,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.65,71875
+Lenovo,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.1,53227
+Acer,Notebook,medium,1,141,0,Intel,4,SSD,Intel,windows,2.2,36337
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.6,61219
+Dell,2 in 1 Convertible,small,0,166,1,Intel,16,SSD,Intel,windows,1.62,68145
+HP,Ultrabook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,1.83,37243
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.2,36089
+Dell,2 in 1 Convertible,large,0,127,1,Intel,12,HDD,Nvidia,windows,2.77,53227
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.96,31914
+Lenovo,2 in 1 Convertible,medium,1,157,0,Intel,8,SSD,Intel,windows,1.74,47899
+Apple,Ultrabook,small,1,227,0,Intel,8,SSD,Intel,macos,1.37,75604
+Asus,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.2,77203
+Asus,Gaming,large,0,127,0,AMD,8,Hybrid,AMD,windows,3.2,69211
+Dell,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.21,87859
+Toshiba,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,72621
+HP,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.1,42304
+Asus,Gaming,medium,0,141,0,AMD,8,HDD,AMD,windows,2.45,37243
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.42,130874
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,windows,2.3,34046
+Acer,Notebook,medium,0,141,0,Intel,2,HDD,Nvidia,windows,2.2,36710
+Acer,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.2,44329
+Dell,Notebook,medium,0,141,1,Intel,16,HDD,AMD,windows,2.3,45768
+Asus,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2,40972
+HP,Notebook,small,0,166,0,Intel,16,SSD,Intel,windows,1.49,63776
+Dell,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.65,63670
+Asus,Notebook,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.69,47472
+Asus,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.25,55891
+Acer,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.5,45128
+HP,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,1.9,67612
+Dell,Ultrabook,small,1,331,1,Intel,16,SSD,Intel,windows,1.21,133147
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.37,21258
+HP,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.1,17582
+MSI,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.8,111835
+Acer,Notebook,medium,0,141,0,AMD,8,SSD,AMD,windows,2.23,24988
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,AMD,linux,2.2,31963
+Asus,2 in 1 Convertible,small,0,135,1,Intel,2,Flash Storage,Intel,windows,1.1,14652
+Asus,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.5,53227
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,linux,2.2,25841
+Asus,Notebook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,2,30743
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.48,67559
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.33,44968
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,60952
+HP,2 in 1 Convertible,small,1,331,1,Intel,16,SSD,Intel,windows,1.29,130483
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2,14651
+HP,Gaming,medium,1,141,0,Intel,12,Hybrid,Nvidia,windows,2.62,66547
+Lenovo,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,3.2,79867
+Lenovo,Notebook,small,0,118,0,Intel,4,Flash Storage,Intel,other,1.45,24503
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.6,45768
+HP,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,1.91,38308
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2,60886
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.2,14647
+Acer,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.6,36710
+Lenovo,Notebook,medium,0,141,0,AMD,12,HDD,AMD,windows,2.2,47899
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.95,52214
+HP,Notebook,medium,0,141,0,AMD,4,HDD,AMD,windows,2.1,18595
+Acer,Notebook,small,0,135,0,Intel,4,Flash Storage,Intel,windows,1.4,25841
+Dell,Notebook,medium,0,141,0,Intel,16,SSD,AMD,linux,2.36,47899
+HP,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.1,38148
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,AMD,linux,2.2,34472
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.48,68838
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,20779
+Lenovo,2 in 1 Convertible,small,1,317,1,Intel,16,SSD,Intel,windows,1.4,111835
+Asus,Notebook,medium,0,141,0,AMD,4,Hybrid,AMD,windows,2.2,30636
+HP,Ultrabook,small,1,166,0,Intel,8,SSD,Nvidia,windows,1.38,59620
+Asus,Gaming,large,0,127,0,Intel,32,Hybrid,Nvidia,windows,4.7,207259
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,84129
+Lenovo,Notebook,large,0,106,0,Intel,4,HDD,Nvidia,windows,2.79,31382
+Microsoft,Ultrabook,small,0,201,1,Intel,8,SSD,Intel,windows,1.25,71395
+Acer,Gaming,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.5,45075
+Lenovo,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.4,60153
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,2,58288
+HP,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.44,14865
+HP,Notebook,medium,1,157,0,Intel,6,SSD,Nvidia,windows,1.58,35112
+Lenovo,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,7.2,31382
+HP,Notebook,medium,1,100,0,Intel,8,HDD,Intel,windows,2.1,48059
+Dell,Ultrabook,medium,0,141,0,Intel,16,SSD,Intel,windows,1.88,85672
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.85,22106
+Acer,Notebook,medium,0,100,0,AMD,8,SSD,AMD,windows,2.2,35112
+Asus,2 in 1 Convertible,small,0,135,1,Intel,4,Flash Storage,Intel,windows,1.5,19980
+Lenovo,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.44,15558
+Acer,Notebook,medium,0,100,0,Intel,6,HDD,Intel,windows,8.23,29251
+Asus,Ultrabook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.3,63563
+Dell,Ultrabook,medium,0,141,0,Intel,8,HDD,AMD,windows,0,35325
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.2,69211
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,69477
+Asus,Ultrabook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,1.7,55939
+HP,Gaming,large,0,127,0,Intel,12,Hybrid,Nvidia,windows,3.35,106507
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,75072
+Mediacom,2 in 1 Convertible,small,1,190,1,Intel,4,SSD,Intel,windows,1.16,15931
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,71129
+HP,Workstation,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.6,92615
+Samsung,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,other,1.15,14332
+Dell,Notebook,medium,0,282,1,Intel,32,SSD,Nvidia,windows,2.06,140606
+Toshiba,Notebook,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.4,74752
+Lenovo,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.4,53813
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,63883
+Lenovo,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.7,31915
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2,50243
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.02,51730
+Asus,Notebook,medium,0,157,0,Intel,8,Hybrid,Intel,windows,2,71076
+Lenovo,Workstation,medium,1,282,0,Intel,16,SSD,Nvidia,windows,2.3,130270
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.2,17156
+Lenovo,Notebook,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.5,130483
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.65,53227
+Asus,Gaming,large,0,127,0,AMD,8,Hybrid,AMD,windows,3.2,90310
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.85,23923
+Dell,Notebook,medium,0,100,1,Intel,8,HDD,Intel,windows,2.36,29697
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,18488
+Google,Ultrabook,small,0,235,1,Intel,16,SSD,Intel,other,1.1,117163
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.36,76031
+Lenovo,Ultrabook,large,0,122,0,Intel,24,SSD,Intel,windows,1.32,126913
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.86,23390
+Asus,Notebook,medium,0,141,0,Intel,4,SSD,Intel,linux,2,29784
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,2,50350
+Lenovo,Notebook,large,0,106,0,AMD,8,HDD,AMD,windows,2.8,27652
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,windows,2.2,39907
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.58,78854
+Lenovo,Ultrabook,small,1,176,0,Intel,8,SSD,Intel,windows,1.36,76137
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.2,18595
+Asus,Ultrabook,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.5,67239
+HP,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58555
+Lenovo,Notebook,large,0,106,0,Intel,6,Hybrid,Nvidia,windows,2.8,38308
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,windows,1.64,62817
+HP,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.32,74539
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,23539
+HP,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,1.86,34046
+Dell,Workstation,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.23,106187
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.64,68184
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,windows,1.23,73473
+MSI,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.2,54758
+HP,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,1.63,36710
+Dell,Notebook,large,1,127,0,Intel,8,Hybrid,AMD,linux,2.8,47366
+Microsoft,Ultrabook,small,0,201,1,Intel,16,SSD,Intel,windows,1.25,137942
+Lenovo,Notebook,large,0,92,0,Intel,8,SSD,Intel,windows,2.02,71395
+Lenovo,Notebook,medium,0,100,0,Intel,8,SSD,Nvidia,other,2.2,26587
+HP,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,1.91,31382
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,74539
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,42571
+Dell,Workstation,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.17,105228
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,other,2.2,24456
+HP,Workstation,medium,1,141,0,Intel,8,SSD,Intel,windows,2.31,81732
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,AMD,windows,2.3,31169
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.65,71662
+HP,Notebook,medium,1,112,0,Intel,4,HDD,Intel,windows,1.63,38468
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,73367
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.36,52161
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.42,160520
+Dell,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.21,86793
+Dell,2 in 1 Convertible,small,0,135,1,Intel,4,HDD,Intel,windows,1.47,25521
+Toshiba,Notebook,medium,1,141,0,Intel,8,HDD,Intel,windows,2,45821
+Dell,Notebook,large,1,127,0,Intel,8,HDD,Nvidia,windows,4.42,109011
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.63,57756
+Asus,Notebook,medium,1,282,0,Intel,8,Hybrid,Nvidia,windows,2,69211
+Microsoft,Ultrabook,small,0,201,1,Intel,4,SSD,Intel,windows,1.25,52694
+Dell,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.16,60224
+Mediacom,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.2,19660
+Microsoft,Ultrabook,large,0,81,1,Intel,8,SSD,Intel,windows,1.25,95851
+Asus,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.3,87859
+HP,Notebook,large,0,106,0,Intel,8,SSD,Intel,windows,2.5,34094
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.23,28984
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,1.93,72940
+Asus,Notebook,large,0,127,0,Intel,4,HDD,Nvidia,windows,2,30050
+Acer,Netbook,small,0,135,0,Intel,4,SSD,Intel,windows,1.4,23177
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.2,42486
+Asus,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,1.7,59567
+Asus,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.37,39907
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,1.86,21258
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.04,20726
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,AMD,other,1.5,42571
+HP,Gaming,large,0,127,0,Intel,12,HDD,Nvidia,windows,2.62,95851
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.67,111355
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.87,45768
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,16197
+Dell,Notebook,large,0,127,0,Intel,8,Hybrid,AMD,windows,2.8,57809
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,windows,1.2,74539
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Nvidia,windows,2.2,24988
+Dell,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.6,39207
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,2.02,40440
+HP,Ultrabook,small,1,276,0,Intel,8,SSD,Intel,windows,1.34,61006
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,43104
+HP,Gaming,large,1,127,0,Intel,12,HDD,Nvidia,windows,3.78,90523
+Acer,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,linux,2.4,42517
+Lenovo,Ultrabook,medium,1,210,0,Intel,12,SSD,Intel,windows,1.4,98994
+Asus,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2,18595
+HP,2 in 1 Convertible,small,1,331,1,Intel,8,SSD,Intel,windows,1.29,106507
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.1,37589
+HP,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,1.9,61485
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.33,47899
+Google,Ultrabook,small,0,235,1,Intel,8,SSD,Intel,other,1.1,67932
+Dell,Ultrabook,small,0,166,1,Intel,8,SSD,Intel,windows,1.42,98134
+HP,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.36,93240
+Asus,Notebook,medium,1,282,0,Intel,12,Hybrid,Intel,windows,2.06,69211
+Dell,Notebook,medium,0,112,0,Intel,8,SSD,Intel,windows,1.79,39427
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,72674
+Toshiba,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.05,89084
+Asus,2 in 1 Convertible,medium,0,141,1,Intel,12,Hybrid,Nvidia,windows,2.26,58555
+Dell,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.16,67239
+Acer,Notebook,medium,0,100,0,AMD,4,SSD,AMD,windows,2.1,22697
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.18,31254
+HP,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.49,38681
+Asus,Gaming,large,1,127,0,AMD,16,Hybrid,AMD,windows,3.25,117163
+Lenovo,Notebook,medium,0,157,0,Intel,4,HDD,Intel,windows,1.87,41825
+Chuwi,Notebook,medium,0,141,0,Intel,4,Flash Storage,Intel,windows,1.89,13261
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,other,2.15,24634
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.86,21152
+Lenovo,Notebook,large,0,106,0,AMD,4,SSD,AMD,windows,2.6,26054
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.99,92121
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.3,30103
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.2,26587
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.75,55891
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,59513
+Dell,Workstation,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.17,124569
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.42,143803
+HP,Notebook,large,0,106,0,Intel,8,HDD,Intel,windows,2.65,28992
+Dell,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.62,46301
+HP,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,windows,2.63,68198
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2,11935
+Dell,Notebook,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.06,101179
+HP,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.91,26053
+Mediacom,Notebook,small,1,166,0,Intel,4,Flash Storage,Intel,windows,1.35,13586
+Acer,Notebook,medium,1,141,1,Intel,6,HDD,Intel,windows,2.1,25521
+Lenovo,Ultrabook,small,1,176,0,Intel,16,SSD,Intel,windows,1.36,95797
+Lenovo,Notebook,large,0,106,0,Intel,6,Hybrid,Nvidia,windows,2.8,50563
+HP,Notebook,medium,1,141,0,AMD,6,SSD,AMD,windows,1.91,30311
+Asus,Ultrabook,small,0,176,0,Intel,16,SSD,Intel,windows,0.91,103896
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.8,119427
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.18,32922
+Lenovo,Netbook,small,1,135,0,Intel,4,SSD,Intel,windows,1.59,29464
+Acer,2 in 1 Convertible,small,1,190,1,Intel,4,Flash Storage,Intel,windows,1.25,18595
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,other,2.2,33513
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.8,16464
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.05,33566
+HP,Notebook,large,0,127,0,Intel,16,SSD,Nvidia,windows,2.5,67719
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.3,53919
+HP,Ultrabook,small,1,276,1,Intel,16,SSD,Intel,windows,1.16,104695
+Asus,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.5,15238
+Lenovo,Notebook,large,1,127,0,Intel,8,SSD,Nvidia,windows,3.4,159787
+Toshiba,Ultrabook,small,0,166,1,Intel,32,SSD,Intel,windows,1.05,149131
+Acer,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,linux,2.4,45075
+Asus,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,44702
+Asus,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,1.99,71928
+Dell,Ultrabook,small,1,331,1,Intel,8,SSD,Intel,windows,1.21,85195
+Acer,Notebook,medium,0,100,0,AMD,4,SSD,AMD,windows,2.1,24029
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.93,51096
+Acer,Notebook,medium,0,100,0,AMD,8,HDD,AMD,windows,2.2,30849
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.2,18328
+Asus,Gaming,large,1,127,1,Intel,24,Hybrid,Nvidia,windows,4.33,67612
+HP,Notebook,medium,0,157,0,Intel,8,HDD,Intel,windows,1.63,43263
+Lenovo,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,2.02,52747
+HP,Workstation,large,0,106,0,Intel,8,HDD,Nvidia,windows,3.14,99154
+Asus,Notebook,medium,0,112,0,AMD,4,SSD,AMD,windows,1.65,14811
+Lenovo,Ultrabook,small,1,125,0,Intel,8,SSD,Intel,windows,1.3,58555
+HP,Notebook,medium,0,112,0,Intel,8,HDD,Intel,windows,1.94,20726
+Dell,Notebook,large,0,127,0,Intel,16,Hybrid,AMD,windows,2.8,74379
+HP,Notebook,medium,1,141,0,AMD,6,SSD,AMD,windows,1.95,34579
+HP,Notebook,large,0,127,0,Intel,8,SSD,Intel,windows,2.5,49444
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,windows,2.36,34045
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.3,44222
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.17,47893
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.05,36497
+HP,Gaming,large,1,127,0,Intel,8,Hybrid,Nvidia,windows,3.35,63456
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.48,93187
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,AMD,windows,2.2,23923
+Mediacom,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.4,13267
+Lenovo,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.4,50563
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,other,1.85,21498
+Toshiba,Ultrabook,medium,0,157,1,Intel,16,SSD,Intel,windows,1.24,99367
+Acer,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.6,47100
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2.3,48538
+Lenovo,Gaming,large,1,127,0,Intel,32,Hybrid,Nvidia,windows,4.6,141885
+Acer,Notebook,medium,0,141,0,Intel,4,SSD,Nvidia,windows,7.2,30476
+Asus,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,windows,1.2,18115
+HP,Notebook,medium,0,100,0,Intel,8,SSD,AMD,windows,1.91,32980
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.14,145401
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.05,31861
+Lenovo,2 in 1 Convertible,small,1,158,1,Intel,8,SSD,Intel,windows,1.4,85195
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.63,52641
+Lenovo,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,2.1,15931
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.9,13446
+Lenovo,Netbook,small,0,135,0,Intel,4,SSD,Intel,other,1.25,14119
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.2,39907
+Lenovo,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.44,50563
+Asus,Notebook,medium,0,141,0,Intel,8,Hybrid,Intel,windows,2,65215
+Mediacom,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.45,20726
+Acer,Notebook,medium,1,141,0,Intel,4,HDD,Nvidia,windows,2.2,32661
+Asus,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,3,49977
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,1.9,53734
+HP,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.34,70489
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,61219
+HP,Notebook,small,0,166,0,Intel,4,SSD,Intel,windows,1.49,38308
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,other,2.2,26587
+Dell,Notebook,medium,0,141,0,Intel,16,SSD,Nvidia,windows,1.93,81912
+HP,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.32,37243
+Dell,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,other,1.26,15718
+Acer,Notebook,large,1,127,0,Intel,4,HDD,Nvidia,windows,3,34898
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,AMD,windows,1.75,59462
+Lenovo,Gaming,medium,1,141,0,Intel,8,SSD,Nvidia,other,2.4,46300
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.5,125155
+Toshiba,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,32075
+HP,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,3.78,79813
+Asus,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.3,88178
+Lenovo,Ultrabook,medium,1,157,0,Intel,12,SSD,Intel,windows,8.4,89137
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.5,58555
+HP,Notebook,medium,0,100,0,AMD,4,SSD,AMD,windows,1.86,19660
+Asus,Ultrabook,small,0,166,1,Intel,16,SSD,Intel,windows,1.1,93181
+Dell,Ultrabook,small,1,166,1,Intel,8,SSD,Intel,windows,1.29,47899
+Asus,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.25,58555
+Lenovo,Ultrabook,medium,1,210,0,Intel,8,SSD,Intel,windows,1.13,121585
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,34046
+Lenovo,Notebook,medium,0,100,1,Intel,12,HDD,Intel,windows,2.2,32448
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.18,44542
+Lenovo,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.5,29251
+Asus,Gaming,large,1,127,0,Intel,8,Hybrid,Nvidia,windows,2.73,94306
+Dell,Notebook,medium,0,141,0,Intel,16,Hybrid,AMD,windows,2.2,64961
+Asus,2 in 1 Convertible,medium,0,100,1,Intel,8,HDD,Intel,windows,2.2,39374
+Xiaomi,Notebook,medium,1,141,0,Intel,16,SSD,Nvidia,other,1.95,74589
+Asus,Netbook,small,0,135,0,Intel,2,Flash Storage,Intel,windows,1.1,13054
+Lenovo,Notebook,medium,0,141,0,AMD,12,SSD,AMD,windows,2.2,50563
+Dell,Workstation,medium,0,141,0,Intel,8,HDD,AMD,windows,2.23,72940
+HP,Notebook,medium,0,100,1,Intel,4,HDD,Intel,windows,2.04,27784
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,1.93,46300
+Dell,2 in 1 Convertible,large,0,50,1,Intel,4,SSD,Intel,windows,1.39,32128
+Asus,Gaming,medium,0,141,0,Intel,24,SSD,Nvidia,windows,2.24,158135
+Dell,Workstation,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2,113753
+Samsung,Notebook,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.5,90523
+Asus,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,3,62231
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.04,47366
+Lenovo,2 in 1 Convertible,medium,0,210,1,Intel,16,SSD,Intel,windows,1.42,133680
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,3,80133
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,74006
+Asus,Gaming,large,0,127,0,Intel,8,HDD,Nvidia,windows,3,55358
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.94,120832
+Lenovo,Notebook,large,0,127,0,Intel,4,HDD,Intel,other,2.8,28185
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,3,84768
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,3.2,74539
+Acer,2 in 1 Convertible,small,1,135,1,Intel,4,Flash Storage,Intel,other,1.25,20193
+Acer,Notebook,medium,1,100,0,Intel,12,HDD,Nvidia,windows,2.2,36976
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.29,24456
+HP,Notebook,medium,0,112,0,Intel,8,SSD,Intel,windows,2.31,59887
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.65,78055
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,linux,1.64,58022
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,Intel,linux,1.98,38681
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,107892
+Asus,Notebook,medium,0,157,0,Intel,4,Flash Storage,Intel,windows,1.5,15877
+Dell,Notebook,medium,0,141,0,Intel,16,SSD,Intel,windows,1.93,76012
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.7,78535
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.87,45665
+Dell,2 in 1 Convertible,small,0,176,1,Intel,8,SSD,Intel,windows,1.34,88978
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,62817
+Dell,Workstation,medium,0,141,1,Intel,8,SSD,Nvidia,windows,2.06,93933
+Lenovo,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.19,15877
+Mediacom,Notebook,medium,1,162,0,Intel,4,HDD,Intel,windows,1.4,14119
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,AMD,windows,2.2,41345
+HP,Notebook,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.63,63936
+Lenovo,Ultrabook,medium,1,210,0,Intel,64,SSD,Intel,windows,1.17,89864
+Fujitsu,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.2,42571
+HP,2 in 1 Convertible,small,1,118,1,Intel,8,SSD,Intel,windows,1.58,44574
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.88,49657
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.32,79867
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,64948
+Mediacom,Notebook,medium,0,157,0,Intel,2,Flash Storage,Intel,windows,1.4,12734
+Dell,Gaming,large,0,255,0,Intel,32,Hybrid,Nvidia,windows,4.36,194973
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,35617
+MSI,Gaming,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.7,71875
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,71847
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,other,2.2,24935
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.9,26102
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.33,41498
+Dell,2 in 1 Convertible,small,0,166,1,Intel,4,HDD,Intel,windows,1.71,34579
+Asus,2 in 1 Convertible,small,0,166,1,Intel,6,HDD,Intel,windows,1.5,34046
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,linux,2.32,31410
+HP,Ultrabook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.91,26587
+Asus,Ultrabook,medium,0,157,0,Intel,16,SSD,Intel,windows,11.1,101232
+HP,Notebook,medium,0,141,0,AMD,4,HDD,AMD,windows,2.1,26054
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,AMD,windows,2.1,65511
+Acer,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.2,103097
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.62,78801
+Dell,Notebook,medium,0,100,0,Intel,12,HDD,Intel,windows,2.25,34579
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.9,49977
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.1,34632
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,1.8,44169
+Dell,Workstation,medium,0,282,1,Intel,8,SSD,Nvidia,windows,1.78,144495
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,29784
+Lenovo,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.44,51149
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,30849
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.85,41505
+HP,Workstation,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.6,128884
+Asus,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2,21259
+Dell,2 in 1 Convertible,small,0,166,1,Intel,8,HDD,Intel,windows,1.55,35112
+Asus,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,1.99,48305
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.8,111594
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,21887
+Lenovo,Ultrabook,medium,1,210,0,Intel,16,SSD,Intel,windows,1.13,139860
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2,64309
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,windows,1.23,99580
+Dell,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2,35431
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,16304
+Lenovo,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.42,13267
+Toshiba,Notebook,medium,1,157,1,Intel,8,SSD,Intel,windows,1.25,81785
+Lenovo,2 in 1 Convertible,medium,0,157,1,Intel,8,SSD,Intel,windows,1.7,53227
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,81465
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,93635
+Lenovo,Workstation,medium,1,282,0,Intel,16,SSD,Nvidia,windows,2.5,175771
+Lenovo,Notebook,large,1,86,0,Intel,8,Hybrid,AMD,windows,2.1,60979
+Acer,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,other,1.68,17582
+Samsung,Ultrabook,small,0,166,0,Intel,16,SSD,Intel,windows,0.81,87859
+Acer,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,linux,2.5,46833
+Dell,Notebook,medium,0,112,0,Intel,8,SSD,Intel,windows,1.6,60031
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.8,119827
+HP,Workstation,large,1,127,0,Intel,16,SSD,Nvidia,windows,3,233846
+Lenovo,Netbook,small,0,135,1,Intel,4,SSD,Intel,windows,1.4,25308
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,101232
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Nvidia,other,2.45,30849
+Dell,Notebook,medium,0,282,1,Intel,16,SSD,Nvidia,windows,2.06,127819
+Asus,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.37,45283
+Lenovo,2 in 1 Convertible,small,1,276,1,Intel,8,SSD,Intel,windows,1.3,63883
+HP,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58555
+Asus,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.1,99793
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,59088
+HP,Workstation,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.59,83170
+Toshiba,Ultrabook,small,0,166,0,Intel,16,SSD,Intel,windows,1.2,93080
+Dell,Gaming,medium,1,282,0,Intel,16,Hybrid,Nvidia,windows,4.42,152860
+Acer,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,31915
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.36,89510
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,55837
+Acer,Notebook,medium,0,157,0,Intel,4,Flash Storage,Intel,windows,1.6,17529
+Lenovo,Notebook,large,0,62,0,Intel,4,HDD,Intel,windows,2.2,21792
+Dell,Ultrabook,small,0,176,0,Intel,16,SSD,Intel,windows,1.18,99048
+Lenovo,Notebook,small,0,135,0,Intel,2,Flash Storage,Intel,windows,1.15,16221
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.14,117163
+Google,Ultrabook,small,0,235,1,Intel,8,SSD,Intel,other,1.1,83064
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,linux,2.18,24775
+Asus,Ultrabook,small,1,276,0,Intel,8,SSD,Intel,windows,1.2,60153
+Lenovo,Workstation,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.67,102564
+HP,Notebook,large,0,108,0,AMD,8,HDD,AMD,windows,2.6,27754
+Dell,Notebook,small,0,118,0,Intel,4,HDD,Intel,windows,1.65,45235
+Acer,Notebook,small,0,118,0,Intel,4,SSD,Intel,windows,1.6,34898
+MSI,Gaming,medium,0,282,0,Intel,16,Hybrid,Nvidia,windows,1.8,122491
+Lenovo,Ultrabook,medium,1,157,0,Intel,16,SSD,Intel,windows,1.14,130536
+Asus,Notebook,large,0,91,0,Intel,4,HDD,Nvidia,windows,2.8,25060
+Dell,Gaming,medium,1,282,1,Intel,16,Hybrid,Nvidia,windows,2.72,58555
+Asus,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,other,2.5,62284
+Lenovo,Ultrabook,medium,1,210,0,Intel,8,SSD,Nvidia,windows,1.7,103523
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,23976
+Samsung,Ultrabook,small,0,166,1,Intel,8,SSD,Intel,windows,1.31,85195
+Lenovo,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.43,14599
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,15877
+Dell,Notebook,medium,0,141,0,Intel,16,,AMD,windows,2.3,62938
+Acer,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.8,48964
+Razer,Gaming,medium,0,157,0,Intel,16,SSD,Nvidia,windows,1.95,138475
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,64629
+Samsung,2 in 1 Convertible,medium,0,147,1,Intel,16,SSD,AMD,windows,1.71,95851
+Lenovo,Ultrabook,small,1,176,0,Intel,8,SSD,Intel,windows,1.36,84396
+Toshiba,Notebook,medium,1,112,0,Intel,4,SSD,Intel,windows,1.75,54346
+Asus,Gaming,large,1,127,0,Intel,32,SSD,Nvidia,windows,3.8,149131
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.62,58555
+Acer,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,linux,2.4,37776
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,77251
+Asus,2 in 1 Convertible,medium,0,141,1,Intel,12,HDD,Nvidia,windows,2.3,44702
+Lenovo,Notebook,medium,0,282,0,Intel,16,SSD,Nvidia,windows,2.5,126274
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,63499
+Acer,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.8,33886
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.86,19442
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2.2,74539
+HP,Notebook,medium,0,141,0,Intel,4,HDD,AMD,windows,2.1,24988
+Razer,Gaming,medium,0,157,0,Intel,16,SSD,Nvidia,windows,1.95,154459
+Acer,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.6,42038
+Lenovo,Notebook,medium,0,141,0,Intel,6,HDD,Intel,windows,2.4,30050
+Asus,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2,31004
+Asus,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.27,49444
+Dell,Gaming,large,1,127,0,Intel,32,Hybrid,Nvidia,windows,4.42,191211
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,linux,2.3,31909
+Toshiba,Notebook,medium,1,141,0,Intel,8,HDD,Intel,windows,2,56690
+Lenovo,2 in 1 Convertible,medium,1,141,1,Intel,8,SSD,Intel,windows,2,69211
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,6.2,48964
+Asus,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.3,125208
+Dell,Notebook,small,0,118,0,Intel,4,SSD,Intel,windows,1.65,36710
+Toshiba,Ultrabook,medium,1,157,0,Intel,16,SSD,Nvidia,windows,1.47,93986
+Acer,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.6,18595
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Intel,other,2.2,17529
+Dell,Notebook,medium,0,141,0,Intel,16,Hybrid,AMD,windows,2.2,60473
+Lenovo,Notebook,medium,1,282,0,Intel,32,SSD,Nvidia,windows,2.5,261019
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,3.31,63723
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,79920
+Lenovo,Ultrabook,medium,0,157,0,Intel,16,SSD,Intel,windows,1.7,122491
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.14,28769
+Dell,Gaming,large,1,255,0,Intel,32,Hybrid,Nvidia,windows,4.42,167692
+MSI,Gaming,medium,1,157,0,Intel,16,Hybrid,Nvidia,windows,1.6,100752
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58022
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,AMD,windows,1.75,64755
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.56,65481
+Lenovo,2 in 1 Convertible,medium,1,282,1,Intel,16,SSD,Nvidia,windows,2,101179
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,22324
+Lenovo,Gaming,medium,1,141,0,Intel,4,HDD,Nvidia,windows,2.4,53227
+Chuwi,Notebook,small,1,267,0,Intel,6,Flash Storage,Intel,windows,1.4,23923
+Acer,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.2,122491
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.31,76031
+Dell,Gaming,medium,0,141,0,Intel,16,HDD,Nvidia,windows,2.59,46834
+Dell,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.62,52481
+Asus,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.24,71342
+Vero,Notebook,medium,0,157,0,Intel,4,Flash Storage,Intel,windows,1.22,10811
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,104962
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.2,28505
+Asus,Notebook,large,0,62,0,Intel,8,HDD,Nvidia,linux,2.3,31808
+HP,Notebook,medium,0,141,0,Intel,6,HDD,AMD,windows,2.04,28718
+Dell,Gaming,large,1,108,0,Intel,16,Hybrid,Nvidia,windows,4.42,149131
+Lenovo,2 in 1 Convertible,medium,0,141,1,Intel,8,SSD,AMD,windows,2.08,51096
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.18,23651
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,79215
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,62071
+Dell,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.62,61752
+Toshiba,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,26533
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.25,19128
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.02,60867
+HP,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,2.1,39694
+Lenovo,2 in 1 Convertible,medium,1,210,1,Intel,8,SSD,Intel,windows,1.42,124142
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,linux,1.6,58555
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2,67026
+Asus,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.63,15931
+Dell,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,1.95,43157
+Lenovo,2 in 1 Convertible,small,1,158,1,Intel,8,SSD,Intel,windows,1.38,71875
+Acer,Notebook,medium,0,100,0,Intel,4,SSD,Intel,linux,2.1,21951
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2,39374
+HP,Workstation,medium,0,141,0,Intel,8,SSD,Nvidia,windows,3.14,110018
+Toshiba,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,41558
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.18,32714
+Asus,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.37,58555
+Microsoft,Ultrabook,small,0,201,1,Intel,8,SSD,Intel,windows,1.25,99519
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.29,79867
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,1.9,43580
+Dell,Notebook,medium,0,282,1,Intel,8,SSD,Nvidia,windows,2.06,93187
+HP,Notebook,medium,0,100,0,AMD,8,HDD,AMD,windows,2.04,33513
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,1.9,49817
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.3,55092
+Dell,Netbook,small,0,135,0,Intel,4,SSD,Intel,windows,1.63,39640
+Dell,2 in 1 Convertible,small,0,276,1,Intel,8,SSD,Intel,windows,1.24,107258
+Dell,Gaming,medium,0,282,0,Intel,16,SSD,Nvidia,windows,2.62,89457
+Lenovo,Notebook,large,0,44,0,AMD,4,SSD,AMD,windows,2.2,18595
+Asus,Gaming,large,1,127,0,Intel,32,SSD,Nvidia,windows,3.58,68145
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.4,32448
+Dell,2 in 1 Convertible,small,0,166,1,Intel,16,SSD,Intel,windows,1.22,87859
+HP,Netbook,small,0,125,0,Intel,8,SSD,Intel,windows,1.26,74006
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,Flash Storage,Intel,windows,1.13,109171
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.95,104588
+HP,Gaming,large,1,127,0,Intel,12,HDD,AMD,windows,3.74,93187
+LG,Ultrabook,medium,1,141,1,Intel,16,SSD,Intel,windows,1.08,111835
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,128671
+Samsung,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,0.81,79867
+HP,Netbook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,79014
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,1.98,51202
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.3,71875
+Acer,Notebook,medium,1,141,0,Intel,4,Flash Storage,Intel,other,2.2,19128
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.18,42081
+Lenovo,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.6,42038
+Asus,Notebook,small,0,276,0,Intel,8,SSD,Intel,windows,1.4,61272
+Lenovo,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.32,99048
+LG,Ultrabook,medium,1,157,1,Intel,8,SSD,Intel,windows,0.98,101179
+Razer,Ultrabook,small,1,352,1,Intel,16,SSD,Intel,windows,1.29,95851
+HP,Ultrabook,small,1,166,1,Intel,8,SSD,Intel,windows,1.11,71875
+HP,2 in 1 Convertible,medium,1,157,1,Intel,4,SSD,Nvidia,windows,1.63,37243
+HP,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,other,1.23,20513
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.6,64202
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,20246
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.36,133467
+HP,Ultrabook,small,0,352,1,Intel,8,SSD,Intel,windows,1.09,165168
+Asus,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.5,95851
+Dell,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.76,40226
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,26102
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.4,68944
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.48,111302
+Lenovo,Notebook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,2.2,42038
+Toshiba,Ultrabook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.25,58075
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.13,133147
+Acer,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.7,67133
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.04,54292
+HP,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.34,63350
+Asus,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.1,60473
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.4,26587
+Dell,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.18,29144
+HP,2 in 1 Convertible,small,0,135,1,Intel,8,Flash Storage,Intel,other,1.4,26374
+Lenovo,Notebook,small,0,166,0,Intel,4,SSD,Intel,windows,1.44,46940
+HP,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.64,41505
+LG,Ultrabook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.09,122491
+HP,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.49,51149
+Toshiba,Notebook,small,0,166,0,Intel,4,SSD,Intel,windows,1.2,63670
+Acer,Gaming,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.5,69211
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.7,85195
+HP,Notebook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.48,58607
+MSI,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.2,53168
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.6,71875
+HP,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.95,64202
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,59669
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,77203
+Asus,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,1.86,22324
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.18,36496
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,windows,1.64,55905
+MSI,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.4,63883
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,AMD,windows,1.84,69104
+HP,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.64,36444
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,3.21,109277
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,Flash Storage,Intel,windows,1.13,99900
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,97236
+Dell,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.65,50563
+HP,Notebook,large,1,127,0,Intel,4,SSD,AMD,windows,2.5,37243
+Toshiba,Notebook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.75,26587
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.95,38889
+HP,Ultrabook,small,0,176,0,Intel,4,HDD,Intel,windows,1.26,81998
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.19,79867
+Asus,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.1,72354
+HP,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.48,84715
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,3.49,149917
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.54,100551
+Dell,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.76,31169
+HP,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,1.86,32640
+HP,Notebook,small,0,118,0,Intel,4,HDD,Intel,windows,1.49,42624
+Acer,Netbook,small,1,135,0,Intel,4,Flash Storage,Intel,other,1.35,18914
+Toshiba,Notebook,small,0,118,0,Intel,8,SSD,Intel,windows,1.5,64469
+HP,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.04,41025
+Acer,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.5,32980
+Razer,Gaming,large,0,255,1,Intel,32,SSD,Nvidia,windows,3.49,292987
+Lenovo,Notebook,large,1,255,0,Intel,16,SSD,Nvidia,windows,2.4,158135
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.2,29073
+Lenovo,Ultrabook,medium,1,210,0,Intel,16,SSD,Intel,windows,1.1,111835
+Toshiba,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.47,79387
+Asus,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,linux,2.1,27652
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,118761
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,63190
+HP,Notebook,large,1,127,0,AMD,6,HDD,AMD,windows,2.65,30316
+Dell,2 in 1 Convertible,medium,1,141,1,Intel,4,HDD,Intel,windows,2.08,42410
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.32,87912
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,16943
+Toshiba,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,84715
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,3.21,147832
+HP,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.11,61219
+Acer,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,other,1.45,19980
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,128884
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,windows,1.64,63160
+Lenovo,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.7,37243
+Toshiba,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,35644
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.09,55754
+Lenovo,Ultrabook,small,1,176,0,Intel,8,SSD,Intel,windows,1.36,87912
+Lenovo,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,other,1.5,17316
+HP,Ultrabook,small,0,125,0,Intel,4,SSD,Intel,windows,1.26,83064
+Asus,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.3,31435
+HP,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,2.31,63350
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.31,62071
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.73,95851
+HP,Workstation,large,0,127,0,Intel,8,HDD,Nvidia,windows,3.14,101658
+HP,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.95,56477
+Dell,Gaming,large,1,127,0,Intel,32,Hybrid,Nvidia,windows,4.42,163724
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.18,37725
+Lenovo,2 in 1 Convertible,medium,0,210,1,Intel,8,SSD,Intel,windows,1.42,137995
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,windows,1.29,86527
+HP,Notebook,large,0,106,0,Intel,8,HDD,Nvidia,windows,2.63,48485
+Dell,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.18,38041
+HP,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.95,61219
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.54,99634
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,16464
+Dell,Notebook,medium,0,141,0,Intel,4,SSD,AMD,windows,2.18,39374
+Toshiba,Notebook,small,1,166,0,Intel,8,SSD,Intel,windows,1.5,51841
+HP,2 in 1 Convertible,small,0,135,1,Intel,4,Flash Storage,Intel,other,1.4,32767
+Acer,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,windows,1.4,14332
+HP,Ultrabook,small,0,176,0,Intel,4,HDD,Intel,windows,1.26,84129
+HP,Notebook,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.63,57542
+Asus,Ultrabook,small,1,166,0,Intel,8,SSD,Nvidia,windows,1.45,54665
+HP,Notebook,medium,0,112,0,Intel,4,SSD,Intel,windows,1.64,51841
+HP,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.28,121319
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.86,15393
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.54,78215
+Lenovo,2 in 1 Convertible,small,1,276,1,Intel,16,SSD,Intel,windows,1.3,95851
+HP,Notebook,medium,0,100,0,Intel,4,SSD,Intel,other,1.86,15931
+Toshiba,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.47,58874
+Asus,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.1,101179
+Dell,Notebook,large,0,127,0,Intel,8,HDD,AMD,linux,2.83,46087
+HP,Netbook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,88924
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.18,29762
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,63883
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.96,101392
+Dell,Gaming,large,0,170,0,Intel,16,Hybrid,Nvidia,windows,4.36,146946
+Asus,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.3,41931
+HP,Gaming,large,1,127,0,Intel,8,Hybrid,Nvidia,windows,2.75,74539
+Lenovo,2 in 1 Convertible,medium,0,157,1,Intel,16,SSD,Intel,windows,1.38,93187
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,50350
+Asus,Notebook,large,0,106,0,Intel,4,HDD,Nvidia,windows,2.8,28238
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,23923
+Asus,2 in 1 Convertible,small,0,176,1,Intel,4,Flash Storage,Intel,other,1.2,35644
+HP,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.28,136344
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.23,32980
+Acer,Notebook,medium,0,100,0,AMD,6,HDD,AMD,windows,2.1,21792
+Dell,Notebook,small,0,166,1,Intel,8,HDD,Intel,windows,1.62,34579
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,63499
+Toshiba,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.2,59620
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.95,63670
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,other,2.2,24988
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,65481
+Lenovo,2 in 1 Convertible,small,1,195,1,Intel,8,SSD,Intel,windows,1.1,69211
+Lenovo,Notebook,medium,1,141,0,Intel,8,HDD,Intel,windows,2.3,45323
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,71875
+HP,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,1.84,71875
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.04,39534
+Lenovo,Gaming,medium,1,141,0,AMD,16,Hybrid,AMD,windows,2.5,53227
+Toshiba,Notebook,small,0,166,0,Intel,4,SSD,Intel,windows,1.05,68465
+Toshiba,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.47,91908
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.09,56634
+Dell,Ultrabook,small,0,176,1,Intel,8,SSD,Intel,windows,1.36,78439
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.64,53840
+Lenovo,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,other,2.5,54186
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.29,119347
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,other,2.2,36497
+Lenovo,2 in 1 Convertible,medium,1,141,1,Intel,4,SSD,Intel,windows,1.8,45128
+Vero,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.45,11231
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.07,48485
+Dell,Notebook,large,0,106,0,Intel,4,HDD,AMD,windows,2.36,35112
+Toshiba,Notebook,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.4,75924
+Toshiba,Ultrabook,small,0,118,0,Intel,8,SSD,Intel,windows,1.2,58342
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.3,55923
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,103896
+Acer,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,other,1.68,18595
+HP,Notebook,medium,0,157,0,Intel,4,HDD,Intel,windows,1.54,53280
+Acer,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.56,48059
+HP,Workstation,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2,119827
+HP,Notebook,medium,0,141,0,Intel,8,Hybrid,Intel,windows,1.84,112066
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.36,94572
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,78268
+Dell,Workstation,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.23,94732
+MSI,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,3.78,82352
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.38,56210
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,77789
+Asus,2 in 1 Convertible,small,0,176,0,Intel,8,Flash Storage,Intel,other,1.2,61752
+Toshiba,Ultrabook,small,0,166,1,Intel,16,SSD,Intel,windows,1.36,100007
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,AMD,other,2.2,25521
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.7,79333
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.56,43636
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2,73953
+Dell,Gaming,large,1,255,0,Intel,16,Hybrid,Nvidia,windows,4.36,168045
+Lenovo,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.44,39161
+Samsung,Ultrabook,medium,0,147,0,Intel,16,SSD,Nvidia,windows,1.23,98515
+Lenovo,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,2.2,21259
+Lenovo,Notebook,medium,0,100,0,AMD,8,HDD,AMD,windows,2.2,22857
+Dell,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.24,101179
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.1,33111
+Dell,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.6,90043
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2,21258
+Xiaomi,Ultrabook,small,1,166,0,Intel,8,SSD,Nvidia,windows,1.28,49817
+Dell,Notebook,medium,0,141,0,Intel,4,Hybrid,Nvidia,windows,2.18,48618
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.04,44702
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.9,23976
+HP,2 in 1 Convertible,small,0,166,1,Intel,4,SSD,Intel,windows,1.28,90576
+HP,2 in 1 Convertible,medium,0,100,1,Intel,4,HDD,Intel,windows,2.3,36486
+Asus,Notebook,medium,0,111,0,Intel,4,Flash Storage,Intel,windows,1.65,18541
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.18,42358
+Lenovo,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.6,122011
+Acer,2 in 1 Convertible,small,1,166,1,Intel,1,SSD,Intel,windows,1.6,53227
+Lenovo,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.2,35644
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,19660
+Asus,Netbook,small,0,135,0,Intel,4,Flash Storage,Intel,other,1.2,15339
+HP,2 in 1 Convertible,small,0,166,1,Intel,4,SSD,Intel,windows,1.28,95851
+Lenovo,Workstation,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.18,98834
+Lenovo,Notebook,medium,1,210,0,Intel,16,SSD,Intel,windows,1.1,139594
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.8,63456
+HP,Notebook,large,1,127,0,AMD,6,HDD,AMD,windows,2.71,34899
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,linux,2.18,24280
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,66547
+HP,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,1.91,52161
+Asus,Gaming,large,0,127,0,Intel,12,Hybrid,Nvidia,windows,2.2,72988
+Dell,2 in 1 Convertible,medium,1,141,1,Intel,8,SSD,Intel,windows,2.3,58288
+Acer,Netbook,small,1,135,0,Intel,4,Flash Storage,Intel,other,1.25,15824
+HP,2 in 1 Convertible,small,0,135,1,Intel,4,SSD,Intel,windows,1.45,41292
+HP,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.04,52161
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.2,120093
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.31,37570
+Lenovo,Notebook,large,0,106,0,AMD,4,HDD,AMD,windows,2.8,20193
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.96,26587
+HP,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.95,67399
+HP,2 in 1 Convertible,small,0,276,1,Intel,16,SSD,Intel,windows,1.42,74539
+Acer,Notebook,medium,0,100,0,AMD,8,HDD,AMD,windows,2.4,23923
+Dell,2 in 1 Convertible,small,1,166,1,Intel,12,SSD,Intel,windows,1.6,69211
+Samsung,Ultrabook,medium,0,147,0,Intel,8,SSD,Intel,windows,1.17,90523
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.94,96916
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.32,95851
+MSI,Gaming,large,1,255,0,Intel,16,Hybrid,Nvidia,windows,2.43,141139
+Asus,Gaming,large,1,127,0,Intel,16,HDD,Nvidia,other,4,53173
+Dell,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.25,29784
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.05,78588
+Dell,Notebook,medium,0,141,0,Intel,16,HDD,AMD,windows,2.32,52747
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,linux,2.62,49497
+HP,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.04,47952
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.8,102777
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.29,77682
+Asus,Gaming,large,1,127,0,Intel,64,SSD,Nvidia,windows,3.58,211788
+Dell,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.62,42518
+Dell,Gaming,medium,0,282,0,Intel,16,Hybrid,Nvidia,windows,3.21,70809
+Dell,Ultrabook,small,0,276,0,Intel,8,SSD,Intel,windows,1.3,67559
+Acer,2 in 1 Convertible,small,1,135,1,Intel,4,Flash Storage,Intel,other,1.25,20726
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,81785
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,69264
+Lenovo,Ultrabook,small,1,176,0,Intel,8,SSD,Intel,windows,1.36,93773
+HP,Notebook,small,0,276,0,Intel,4,Flash Storage,Intel,other,1.29,32767
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.06,25680
+Lenovo,2 in 1 Convertible,medium,1,210,1,Intel,8,SSD,Intel,windows,1.36,87219
+Acer,Notebook,medium,0,141,0,Intel,12,Hybrid,Nvidia,windows,2.4,53760
+Acer,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.4,20619
+Lenovo,Ultrabook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,1.54,44276
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.31,63883
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,linux,1.98,47686
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,63883
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,17742
+HP,Notebook,medium,1,141,0,Intel,6,HDD,Nvidia,windows,2.18,42571
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.2,20965
+Asus,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.59,48432
+Dell,2 in 1 Convertible,medium,0,141,1,Intel,16,SSD,Intel,windows,2.09,62817
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.86,18434
+HP,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.49,58075
+Acer,Notebook,medium,0,141,0,Intel,4,SSD,Nvidia,windows,2.23,36816
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,linux,1.23,58555
+Lenovo,Ultrabook,small,1,176,1,Intel,8,SSD,Intel,windows,1.3,91295
+Asus,Gaming,large,1,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,85195
+Acer,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.2,138475
+Dell,Ultrabook,small,1,166,0,Intel,4,SSD,AMD,windows,1.4,43602
+Lenovo,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.4,43636
+Samsung,2 in 1 Convertible,small,1,235,1,Samsung,4,Flash Storage,ARM,other,1.15,35112
+HP,Netbook,small,0,125,0,Intel,4,SSD,Intel,windows,2.4,85195
+Lenovo,Notebook,large,0,106,0,Intel,8,HDD,AMD,windows,3,35112
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.86,25841
+Lenovo,Notebook,medium,1,141,0,Intel,4,HDD,Nvidia,windows,2.3,52055
+Acer,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.4,42571
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,61965
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,3.78,133147
+Dell,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.6,63883
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,28771
+Dell,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,2.36,34035
+Toshiba,Ultrabook,small,0,176,1,Intel,8,SSD,Intel,windows,1.1,95371
+HP,Notebook,medium,1,141,0,Intel,12,Hybrid,Nvidia,windows,2.21,70703
+MSI,Gaming,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.6,85195
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,AMD,other,1.9,19607
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.31,50083
+Asus,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.3,114552
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,windows,2.04,45102
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.96,26640
+Lenovo,Ultrabook,small,1,235,1,Intel,8,SSD,Intel,windows,0.99,74539
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,14492
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,linux,2.25,24808
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.43,109165
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.9,43956
+Asus,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.3,122491
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.04,36497
+Lenovo,Gaming,large,1,127,0,Intel,32,SSD,Nvidia,windows,4.6,172627
+Dell,Ultrabook,small,0,125,0,Intel,4,HDD,Intel,windows,1.5,60481
+Lenovo,2 in 1 Convertible,small,1,224,1,Intel,4,Flash Storage,Intel,windows,0.69,34433
+Dell,Ultrabook,small,0,125,0,Intel,4,SSD,Intel,windows,1.5,62176
+Acer,Notebook,medium,0,100,0,Intel,4,SSD,Intel,other,2.2,11136
+HP,Ultrabook,small,1,331,0,Intel,16,SSD,Intel,windows,1.3,109171
+HP,Workstation,large,1,127,0,Intel,8,HDD,AMD,windows,3,154459
+Dell,Notebook,medium,0,100,0,Intel,4,SSD,AMD,windows,2.3,26587
+Lenovo,Gaming,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.4,63883
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.18,39960
+Dell,Ultrabook,small,0,125,0,Intel,8,SSD,Intel,windows,1.5,75290
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Nvidia,other,2.2,33513
+Dell,Gaming,large,1,127,0,Intel,32,Hybrid,Nvidia,windows,4.42,167779
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.9,80516
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.2,142790
+Lenovo,Notebook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,2.4,37030
+Lenovo,2 in 1 Convertible,medium,1,141,1,Intel,4,SSD,Intel,windows,2.1,46194
+Asus,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.2,62284
+HP,Notebook,medium,0,141,0,AMD,4,HDD,AMD,windows,2.1,21205
+HP,Notebook,medium,0,157,0,Intel,4,HDD,Intel,windows,1.54,54931
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.36,47366
+Asus,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.59,71342
+HP,Workstation,medium,0,141,0,Intel,8,SSD,AMD,windows,1.9,79654
+Dell,2 in 1 Convertible,small,0,276,1,Intel,16,SSD,Intel,windows,1.22,101179
+HP,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,1.91,30849
+HP,Notebook,small,0,276,1,Intel,8,SSD,Intel,windows,1.16,90523
+Dell,Ultrabook,medium,0,210,1,Intel,8,SSD,Intel,windows,1.5,104588
+Lenovo,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.2,15931
+Dell,Gaming,large,0,127,0,Intel,32,Hybrid,Nvidia,windows,4.42,149184
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.24,40980
+Toshiba,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.95,62870
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,63883
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,22857
+Acer,Notebook,large,0,106,0,Intel,8,HDD,Nvidia,windows,3.3,33513
+HP,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.16,104908
+Asus,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.2,130483
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.73,109219
+Lenovo,2 in 1 Convertible,small,1,224,1,Intel,4,Flash Storage,Intel,other,0.69,29251
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,68145
+Asus,Notebook,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.2,93187
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.23,73473
+MSI,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,2.43,103842
+HP,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.04,52161
+Lenovo,Gaming,large,1,127,0,Intel,16,SSD,Nvidia,windows,4.6,146519
+Lenovo,Notebook,medium,0,112,0,Intel,4,Hybrid,Intel,windows,1.7,53387
+Dell,2 in 1 Convertible,medium,1,141,1,Intel,8,SSD,Intel,windows,2.19,53227
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,19660
+Razer,Ultrabook,small,0,352,1,Intel,8,SSD,Intel,windows,1.25,54825
+Asus,2 in 1 Convertible,medium,0,282,1,Intel,16,Hybrid,Nvidia,windows,2.3,95851
+Toshiba,Ultrabook,small,0,166,0,Intel,16,SSD,Intel,windows,1.05,118601
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,103843
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.99,93187
+Asus,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,3.52,69929
+Dell,2 in 1 Convertible,medium,1,141,1,Intel,12,SSD,Intel,windows,2.19,69211
+Acer,Netbook,small,0,135,0,Intel,2,SSD,Intel,other,1.3,9271
+Vero,Notebook,small,0,166,0,Intel,4,Flash Storage,Intel,windows,1.35,10443
+Acer,Notebook,large,0,106,0,Intel,4,HDD,Nvidia,windows,3.3,31861
+Lenovo,Notebook,large,0,106,0,Intel,8,HDD,Intel,other,2.8,28718
+HP,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.16,90043
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.6,67772
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,80613
+Acer,2 in 1 Convertible,medium,1,157,1,Intel,8,SSD,Intel,windows,1.2,61219
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.09,27899
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2.3,81465
+Toshiba,Notebook,small,0,166,0,Intel,4,SSD,Intel,windows,1.2,63670
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,23177
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,78647
+Asus,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.2,38841
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,8,SSD,Intel,windows,1.8,88924
+HP,Notebook,medium,0,141,0,AMD,6,HDD,AMD,windows,2.1,28185
+Lenovo,Notebook,medium,0,141,0,AMD,6,SSD,AMD,windows,2.2,29251
+Dell,Ultrabook,small,0,176,1,Intel,8,SSD,Intel,windows,1.26,91288
+Lenovo,2 in 1 Convertible,small,1,224,1,Intel,4,Flash Storage,Intel,windows,0.69,25521
+Fujitsu,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.3,34579
+Dell,2 in 1 Convertible,medium,0,147,1,Intel,4,HDD,Intel,windows,2.08,27120
+Toshiba,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.75,48751
+HP,Ultrabook,small,0,125,0,Intel,8,SSD,Intel,windows,1.26,100966
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.65,16464
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.25,31915
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,52694
+Dell,Ultrabook,small,0,276,1,Intel,8,SSD,Intel,windows,1.29,78695
+HP,Notebook,medium,0,141,0,Intel,8,HDD,Intel,windows,2.04,42944
+HP,Gaming,large,1,127,0,Intel,8,Hybrid,Nvidia,windows,3.35,60153
+Dell,Notebook,medium,0,100,0,Intel,6,HDD,Intel,windows,2.3,24456
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.5,63350
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.18,27805
+Lenovo,Gaming,medium,1,141,1,Intel,16,Hybrid,Nvidia,windows,2.6,54825
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,61219
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,windows,2.36,39907
+Lenovo,Netbook,small,1,176,1,Intel,16,SSD,Intel,windows,1.3,87912
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.6,59620
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,15398
+Razer,Gaming,medium,0,157,0,Intel,16,SSD,Nvidia,windows,1.95,186427
+HP,Netbook,small,0,176,0,Intel,8,SSD,Intel,windows,0.97,101658
+HP,Notebook,medium,0,141,0,Intel,4,Hybrid,AMD,windows,2.1,26587
+Dell,Notebook,medium,0,100,0,Intel,2,HDD,Intel,windows,2.2,20193
+Dell,Notebook,medium,0,100,1,Intel,8,HDD,Intel,windows,2.3,24989
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,other,1.9,14419
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.04,33513
+Lenovo,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.6,47899
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.04,29303
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,8,SSD,Nvidia,windows,1.8,109244
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,linux,2.3,42943
+HP,Netbook,small,0,135,0,Intel,2,Flash Storage,Intel,windows,1.17,11136
+Asus,Notebook,medium,0,112,0,Intel,4,Flash Storage,Intel,windows,1.5,14812
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,40067
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Nvidia,windows,2.2,38379
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,4,SSD,Intel,windows,1.8,33993
+Lenovo,2 in 1 Convertible,small,1,276,1,Intel,16,SSD,Intel,windows,1.3,79867
+Lenovo,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.5,12201
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.23,32820
+HP,Notebook,medium,0,100,0,Intel,6,HDD,AMD,windows,2.19,40706
+Lenovo,Notebook,medium,0,141,0,Intel,16,Hybrid,AMD,windows,2.5,58555
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,19660
+HP,Workstation,large,1,127,0,Intel,8,SSD,Nvidia,windows,3,210424
+Asus,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.2,38841
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,windows,2.5,41772
+Dell,Notebook,medium,0,100,0,Intel,6,HDD,Intel,windows,2.3,24456
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,3.78,127819
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,15398
+Dell,Notebook,medium,0,100,0,Intel,2,HDD,Intel,windows,2.2,20193
+Lenovo,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.6,47899
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.88,115709
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.04,29303
+Lenovo,2 in 1 Convertible,medium,1,210,1,Intel,16,SSD,Intel,windows,2.8,130003
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,linux,2.3,42943
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.4,60888
+HP,Netbook,small,0,135,0,Intel,2,Flash Storage,Intel,windows,1.17,11136
+HP,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.48,86793
+HP,Workstation,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.59,118761
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Nvidia,windows,2.2,38379
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,4,SSD,Intel,windows,1.8,33993
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.7,85141
+Lenovo,2 in 1 Convertible,small,1,276,1,Intel,16,SSD,Intel,windows,1.3,79867
+Apple,Ultrabook,small,0,135,0,Intel,4,Flash Storage,Intel,macos,1.08,51096
+Lenovo,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.5,12201
+HP,Notebook,medium,0,100,0,Intel,6,HDD,AMD,windows,2.19,40706
+HP,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.1,25468
+HP,2 in 1 Convertible,small,0,221,1,Intel,8,SSD,Intel,windows,1.48,95851
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,19660
+HP,Ultrabook,medium,0,210,0,Intel,8,SSD,Intel,windows,1.54,117120
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.24,39267
+HP,Workstation,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2,101179
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,122381
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.18,53807
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.88,84129
+Lenovo,2 in 1 Convertible,medium,1,210,1,Intel,8,SSD,Intel,windows,1.27,124622
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.3,62284
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,1.9,18062
+Lenovo,Notebook,small,1,166,0,Intel,16,SSD,Intel,windows,1.4,79867
+HP,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,1.86,15824
+Lenovo,Notebook,medium,0,141,0,AMD,6,SSD,AMD,windows,2.2,31839
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,AMD,other,2.32,31915
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.62,63883
+Asus,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.45,68198
+Dell,Notebook,medium,1,282,1,Intel,8,SSD,Nvidia,windows,2.04,119916
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,19277
+HP,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.91,25515
+Dell,2 in 1 Convertible,large,0,127,1,Intel,16,SSD,Nvidia,windows,2.77,95851
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.7,79536
+HP,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.54,58607
+Lenovo,Ultrabook,medium,0,157,0,Intel,12,SSD,Intel,windows,1.4,122491
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.5,42011
+HP,2 in 1 Convertible,small,0,221,1,Intel,8,SSD,Intel,windows,1.48,108744
+Lenovo,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,79867
+MSI,Gaming,medium,0,157,0,Intel,16,Hybrid,Nvidia,windows,1.7,94252
+Dell,Notebook,medium,0,112,0,Intel,4,HDD,Intel,windows,1.6,46620
+Asus,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.34,123876
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,other,2.3,30529
+HP,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.62,47899
+Dell,2 in 1 Convertible,small,0,276,1,Intel,8,SSD,Intel,windows,1.24,96597
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.2,24456
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.1,25414
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.2,17263
+Dell,Gaming,medium,0,282,0,Intel,8,Hybrid,Nvidia,windows,2.62,79813
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.95,74059
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,24935
+HP,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,1.86,21259
+Lenovo,Notebook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,2.4,30316
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.9,57116
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,23656
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,18062
+HP,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.44,13267
+Asus,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4,101232
+MSI,Gaming,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.2,44702
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.29,26107
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.32,47686
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.96,36177
+HP,Notebook,medium,0,141,0,Intel,16,SSD,Intel,windows,2.1,61752
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.4,65481
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,19660
+Lenovo,2 in 1 Convertible,medium,0,157,1,Intel,4,SSD,Intel,windows,1.8,44383
+Asus,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.2,38841
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.1,21205
+Dell,Notebook,medium,0,100,0,Intel,6,HDD,Intel,windows,2.3,24456
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,15398
+Dell,Notebook,medium,0,100,0,Intel,2,HDD,Intel,windows,2.2,20193
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,other,2.2,37776
+Lenovo,Notebook,medium,1,141,0,Intel,8,HDD,Nvidia,windows,2.6,47899
+Asus,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,2,40972
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.04,29303
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,linux,2.3,42943
+Lenovo,Notebook,medium,0,141,0,Intel,4,Hybrid,Intel,windows,2.32,43956
+HP,Netbook,small,0,135,0,Intel,2,Flash Storage,Intel,windows,1.17,11136
+Lenovo,Gaming,medium,1,141,0,Intel,16,SSD,Nvidia,windows,3.31,69530
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Nvidia,windows,2.2,38379
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.91,114732
+Lenovo,2 in 1 Convertible,medium,1,157,1,Intel,4,SSD,Intel,windows,1.8,33993
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.07,34632
+Lenovo,2 in 1 Convertible,small,1,276,1,Intel,16,SSD,Intel,windows,1.3,79867
+Lenovo,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.5,12201
+HP,Notebook,medium,0,100,0,Intel,6,HDD,AMD,windows,2.19,40706
+HP,2 in 1 Convertible,small,1,118,1,Intel,8,SSD,Intel,windows,1.58,44574
+Acer,2 in 1 Convertible,small,1,135,1,Intel,4,Flash Storage,Intel,other,1.25,20193
+Acer,Notebook,medium,1,100,0,Intel,12,HDD,Nvidia,windows,2.2,36976
+Lenovo,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,other,2.8,45235
+Dell,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.6,64202
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.4,21887
+Dell,Gaming,medium,1,282,0,Intel,16,Hybrid,Nvidia,windows,2.65,98302
+Dell,2 in 1 Convertible,large,0,50,1,Intel,4,SSD,Intel,windows,1.39,32128
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.65,16464
+HP,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,1.91,30849
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.2,64629
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,71875
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,2.05,46886
+Toshiba,Notebook,medium,1,157,1,Intel,8,SSD,Intel,windows,1.25,81785
+Toshiba,Notebook,small,0,118,0,Intel,8,SSD,Intel,windows,1.5,64469
+Asus,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.59,71342
+Acer,Notebook,medium,0,100,0,AMD,8,HDD,AMD,windows,2.2,30849
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,Flash Storage,Intel,windows,1.13,109171
+Lenovo,Notebook,medium,0,157,0,Intel,4,HDD,Intel,windows,1.87,41825
+Acer,Notebook,medium,0,100,0,Intel,4,SSD,Intel,linux,2.1,21951
+Toshiba,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.05,78588
+HP,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.43,77203
+Dell,Gaming,large,1,255,0,Intel,16,Hybrid,Nvidia,windows,4.36,168045
+Lenovo,Notebook,medium,0,141,0,Intel,8,HDD,Intel,other,2.2,27652
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.64,53840
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.42,130874
+Acer,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.2,44808
+Dell,Workstation,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.23,94732
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,103843
+Acer,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.4,42571
+HP,Ultrabook,small,1,352,1,Intel,8,SSD,Intel,windows,0.97,107306
+HP,2 in 1 Convertible,small,1,331,1,Intel,16,SSD,Intel,windows,1.29,130483
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,63499
+HP,Workstation,large,1,127,0,Intel,8,HDD,AMD,windows,3,154459
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.3,55092
+Lenovo,Gaming,large,1,127,0,Intel,32,SSD,Nvidia,windows,4.6,172627
+Fujitsu,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.2,42571
+Apple,Ultrabook,small,1,226,0,Intel,8,SSD,Intel,macos,0.92,80453
+Dell,Ultrabook,medium,0,141,0,Intel,16,SSD,Intel,windows,1.88,85672
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.23,73473
+Xiaomi,Ultrabook,small,1,166,0,Intel,8,SSD,Nvidia,windows,1.28,49817
+Mediacom,Notebook,small,1,166,0,Intel,4,SSD,Intel,windows,1.2,19660
+Lenovo,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.6,122011
+Lenovo,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.1,22857
+Acer,Notebook,medium,1,141,0,Intel,4,HDD,Nvidia,windows,2.2,32661
+Asus,Notebook,large,0,127,0,Intel,4,HDD,Nvidia,windows,2,30050
+Asus,Gaming,large,1,127,0,Intel,32,SSD,Nvidia,windows,3.8,149131
+Apple,Ultrabook,medium,1,221,0,Intel,16,SSD,AMD,macos,1.83,152274
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,52694
+Acer,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.7,67133
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.2,69211
+Lenovo,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,2.05,33566
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2,64309
+Lenovo,Notebook,large,1,127,0,Intel,8,SSD,Nvidia,windows,3.4,159787
+HP,Gaming,large,1,127,0,Intel,12,HDD,AMD,windows,3.74,93187
+Dell,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.42,130874
+Dell,Workstation,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2,113753
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.1,21205
+Lenovo,Notebook,medium,0,157,0,Intel,4,HDD,Intel,windows,1.87,41825
+Asus,Gaming,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.5,53227
+Asus,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2,40972
+Dell,Notebook,medium,0,100,0,Intel,4,SSD,AMD,windows,2.3,26587
+HP,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,1.9,67612
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,other,2.15,24634
+Toshiba,Notebook,medium,1,112,0,Intel,4,SSD,Intel,windows,1.75,54346
+HP,Notebook,small,0,276,0,Intel,4,Flash Storage,Intel,other,1.29,32767
+HP,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,windows,2.5,54239
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.4,68944
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.2,46354
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,61965
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.13,133147
+HP,Ultrabook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,40067
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,59513
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.9,62817
+HP,Notebook,medium,0,112,0,Intel,8,HDD,Intel,windows,1.94,20726
+Lenovo,Notebook,medium,0,141,0,AMD,6,HDD,AMD,windows,2.4,26587
+Dell,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,2.65,71875
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.14,28769
+Acer,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.2,122491
+Asus,Gaming,large,0,127,0,AMD,16,Hybrid,AMD,windows,3.2,82531
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.86,36763
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,42571
+HP,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,3.35,73473
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.14,39165
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,windows,2.13,38788
+Acer,Notebook,medium,0,100,0,AMD,8,SSD,AMD,windows,2.2,35112
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.04,29303
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.4,50136
+Lenovo,Notebook,small,1,166,0,Intel,16,SSD,Intel,windows,1.4,79867
+HP,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58555
+Asus,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.03,21472
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.8,63456
+HP,Notebook,medium,0,141,0,Intel,8,HDD,AMD,windows,2.1,39694
+Lenovo,Notebook,small,0,166,0,Intel,8,SSD,Intel,windows,1.44,50563
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.65,16464
+Asus,Gaming,large,1,127,0,AMD,16,Hybrid,AMD,windows,3.25,117163
+Lenovo,Gaming,medium,1,141,0,Intel,16,Hybrid,Nvidia,windows,3.2,93187
+HP,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.36,93240
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,101232
+Acer,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.7,67133
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.04,20726
+Dell,Notebook,medium,0,100,0,Intel,6,HDD,Intel,windows,2.3,24456
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.48,67559
+HP,Notebook,medium,0,157,0,Intel,4,SSD,Intel,windows,1.95,64202
+Lenovo,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.95,58448
+Lenovo,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.37,74539
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,AMD,other,1.5,42571
+Dell,Notebook,medium,0,141,0,Intel,8,SSD,AMD,linux,2.14,39165
+Huawei,Ultrabook,small,1,200,0,Intel,8,SSD,Intel,windows,1.05,71875
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,43104
+Asus,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.1,70063
+Google,Ultrabook,small,0,235,1,Intel,8,SSD,Intel,other,1.1,67932
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.96,31914
+LG,Ultrabook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.09,122491
+Apple,Ultrabook,medium,1,221,0,Intel,16,SSD,AMD,macos,1.83,130002
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,2.9,128671
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.29,119347
+Apple,Ultrabook,small,1,226,0,Intel,8,Flash Storage,Intel,macos,0.92,69264
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2,16197
+Asus,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.1,70063
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,63883
+HP,Notebook,medium,0,141,0,Intel,8,Hybrid,Intel,windows,1.84,112066
+HP,Workstation,large,1,127,0,Intel,8,SSD,Nvidia,windows,3,210424
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.33,44968
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,3.21,109277
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,75072
+Dell,Notebook,medium,0,141,0,Intel,16,Hybrid,AMD,linux,2.02,55891
+Acer,Notebook,small,0,135,0,Intel,4,Flash Storage,Intel,windows,1.4,25841
+HP,Notebook,medium,0,157,0,Intel,8,SSD,Nvidia,windows,1.64,63160
+Acer,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,3,50669
+Asus,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,3,80133
+Dell,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2,64309
+HP,Netbook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,79014
+Asus,Gaming,large,0,127,0,Intel,16,SSD,Nvidia,windows,3.6,159787
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,1.86,21258
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.2,24935
+Acer,Notebook,large,1,127,0,Intel,4,SSD,Nvidia,windows,3,37403
+Asus,Notebook,medium,0,141,0,Intel,4,SSD,Intel,linux,2,22111
+Dell,Workstation,medium,0,282,0,Intel,16,Hybrid,Nvidia,windows,2.8,162770
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.87,45768
+Dell,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,2.62,78801
+HP,Notebook,medium,0,141,0,Intel,4,SSD,Intel,windows,1.86,21258
+Toshiba,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.47,91908
+Lenovo,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.29,24456
+Chuwi,Notebook,medium,0,141,0,Intel,4,Flash Storage,Intel,windows,1.89,13261
+Lenovo,Netbook,small,0,135,0,Intel,4,SSD,Intel,other,1.25,14119
+HP,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58555
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,AMD,windows,2.32,47686
+Lenovo,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.7,72674
+Asus,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,1.99,48305
+Dell,Ultrabook,small,0,125,0,Intel,8,SSD,Intel,windows,1.5,75290
+Fujitsu,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.2,42571
+HP,Ultrabook,small,0,176,0,Intel,8,SSD,Intel,windows,1.26,71875
+Dell,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.16,60224
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.58,78854
+HP,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,1.86,25841
+Dell,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.16,67239
+Acer,Notebook,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.23,39534
+Lenovo,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.32,79867
+MSI,Gaming,large,0,127,0,Intel,8,Hybrid,Nvidia,windows,2.7,63499
+HP,2 in 1 Convertible,small,0,276,1,Intel,16,SSD,Intel,windows,1.42,74539
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58022
+Dell,Gaming,medium,0,141,0,Intel,8,HDD,Nvidia,windows,2.65,53227
+HP,Notebook,medium,0,100,0,AMD,8,SSD,AMD,windows,1.91,23758
+Acer,Notebook,medium,0,141,0,Intel,4,SSD,Nvidia,windows,7.2,30476
+Asus,2 in 1 Convertible,medium,0,282,1,Intel,16,Hybrid,Nvidia,windows,2.3,95851
+Toshiba,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.2,59620
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.65,16464
+Dell,Notebook,medium,0,100,0,Intel,2,HDD,Intel,windows,2.2,20193
+Lenovo,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.19,15877
+HP,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.1,17582
+Acer,Notebook,medium,0,141,0,Intel,2,HDD,Nvidia,windows,2.2,36710
+Toshiba,Ultrabook,small,0,166,0,Intel,16,SSD,Intel,windows,1.2,93080
+Mediacom,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.45,20726
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.6,67772
+Lenovo,Notebook,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.3,43636
+HP,Notebook,medium,1,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,58555
+HP,Ultrabook,small,0,352,1,Intel,8,SSD,Intel,windows,1.09,165168
+HP,Notebook,medium,0,141,0,AMD,6,Hybrid,AMD,windows,2.04,29303
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.09,27899
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,14492
+Apple,Ultrabook,small,0,128,0,Intel,8,Flash Storage,Intel,macos,1.34,47896
+Google,Ultrabook,small,0,235,1,Intel,16,SSD,Intel,other,1.1,117163
+Asus,Notebook,medium,0,141,0,AMD,4,Hybrid,AMD,windows,2.2,30636
+HP,Ultrabook,small,1,331,0,Intel,16,SSD,Intel,windows,1.3,109171
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,Nvidia,windows,1.5,58555
+Vero,Notebook,medium,1,157,0,Intel,4,Flash Storage,Intel,windows,1.3,13853
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Nvidia,windows,2.23,32820
+Dell,Notebook,medium,0,100,0,Intel,4,HDD,AMD,windows,2.25,31915
+HP,Notebook,medium,0,100,0,Intel,8,HDD,Intel,windows,2.05,31861
+MSI,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.2,61219
+Dell,Ultrabook,small,0,276,1,Intel,16,SSD,Intel,windows,1.2,142790
+Lenovo,Notebook,medium,0,112,0,Intel,2,Flash Storage,Intel,windows,1.42,13267
+MSI,Gaming,medium,0,141,0,Intel,16,Hybrid,Nvidia,windows,1.8,119427
+LG,Ultrabook,medium,1,141,0,Intel,8,SSD,Intel,windows,1.09,122491
+HP,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,1.91,30849
+Acer,Notebook,medium,1,157,0,Intel,4,SSD,Intel,windows,1.8,33886
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,15877
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,2,50350
+HP,Notebook,small,0,166,0,Intel,16,SSD,Intel,windows,1.49,63776
+Acer,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,2.4,26587
+Lenovo,2 in 1 Convertible,medium,0,210,1,Intel,16,SSD,Intel,windows,1.36,133147
+MSI,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,2.43,103842
+Lenovo,Notebook,medium,0,141,0,Intel,6,SSD,Nvidia,windows,2.4,37030
+Acer,2 in 1 Convertible,small,1,166,1,Intel,8,SSD,Intel,windows,1.6,42038
+Lenovo,Ultrabook,medium,0,157,0,Intel,12,SSD,Intel,windows,1.4,122491
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.1,46833
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.1,20779
+Lenovo,Notebook,medium,1,157,0,Intel,8,SSD,AMD,windows,1.75,59462
+HP,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.91,25515
+Asus,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.25,55891
+Toshiba,Notebook,medium,1,141,0,Intel,8,HDD,Intel,windows,2,45821
+HP,Notebook,medium,0,141,0,Intel,8,SSD,Intel,windows,1.84,101232
+Lenovo,Notebook,medium,0,282,0,Intel,16,SSD,Nvidia,windows,2.5,126274
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Intel,windows,2,50243
+Asus,2 in 1 Convertible,medium,0,282,1,Intel,16,Hybrid,Nvidia,windows,2.3,95851
+HP,Notebook,medium,0,141,0,AMD,4,SSD,AMD,windows,1.91,25515
+Asus,Ultrabook,small,1,166,0,Intel,8,SSD,Intel,windows,1.2,38841
+Lenovo,Notebook,medium,0,100,0,AMD,4,HDD,AMD,windows,2.19,15877
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,61219
+Asus,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2,14651
+Acer,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,windows,2.2,44329
+Dell,Ultrabook,small,0,166,0,Intel,8,SSD,Intel,windows,1.22,77203
+Lenovo,2 in 1 Convertible,medium,1,141,1,Intel,4,SSD,Intel,windows,2.1,46194
+Dell,Workstation,medium,1,141,0,Intel,16,SSD,Nvidia,windows,2.17,105228
+Dell,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,2.18,38041
+Toshiba,Notebook,medium,1,141,0,Intel,8,SSD,Nvidia,windows,2.2,55571
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.2,16304
+Lenovo,Gaming,medium,1,141,0,Intel,8,Hybrid,Nvidia,other,2.4,61219
+Lenovo,Notebook,medium,0,141,0,Intel,8,SSD,Nvidia,other,2.2,33513
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,other,2.1,21205
+Mediacom,Notebook,medium,1,162,0,Intel,4,HDD,Intel,windows,1.4,14119
+HP,Ultrabook,small,0,352,1,Intel,8,SSD,Intel,windows,1.09,165168
+Dell,Ultrabook,medium,0,157,0,Intel,8,SSD,Intel,windows,1.36,94572
+Dell,Notebook,medium,0,100,0,Intel,8,HDD,AMD,windows,2.5,41772
+Asus,Gaming,large,1,127,0,Intel,16,Hybrid,Nvidia,windows,4.3,125208
+HP,Notebook,large,0,127,0,Intel,8,HDD,Nvidia,windows,2.5,47739
+MSI,Gaming,large,0,127,0,Intel,8,SSD,Nvidia,windows,2.6,85195
+Lenovo,Notebook,medium,0,100,0,Intel,8,SSD,Intel,windows,7.2,31382
+Acer,Notebook,medium,0,100,0,Intel,4,HDD,Intel,linux,2.4,23539
+Lenovo,Notebook,medium,0,100,0,Intel,4,HDD,Intel,windows,2.1,26102
+Lenovo,Notebook,large,0,106,0,AMD,4,SSD,AMD,windows,2.6,26054
+Acer,Ultrabook,medium,1,157,0,Intel,8,SSD,Intel,windows,1.8,48964
+Asus,Gaming,medium,0,141,0,Intel,8,Hybrid,Nvidia,windows,2.24,71342
+Acer,Gaming,medium,0,141,0,Intel,16,SSD,Nvidia,windows,2.5,69211
+Asus,Notebook,medium,0,157,0,Intel,8,SSD,Intel,windows,2,58288
+MSI,Gaming,large,0,127,0,Intel,16,Hybrid,Nvidia,windows,4.5,125155
+Dell,Notebook,medium,0,100,0,Intel,4,SSD,Intel,windows,2.18,29144
+Lenovo,Notebook,medium,0,141,0,Intel,4,HDD,Intel,windows,1.9,29251
+HP,2 in 1 Convertible,small,0,166,1,Intel,8,SSD,Intel,windows,1.28,121319
